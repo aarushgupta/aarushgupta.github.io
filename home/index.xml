@@ -36,7 +36,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>https://aarushgupta.github.io/home/about/</guid>
-      <description>Biography I am a third-year undergraduate student at the Indian Institute of Technology Roorkee, majoring in Computer Science &amp;amp; Engineering. My interests include Computer Vision, Natural Language Processing and the application of Deep Learning in these fields. At IIT Roorkee, I worked with Dr. Biplab Banerjee on Human Action Detection in Videos and Zero-Shot Learning. I also worked with Dr. Marco Pedersoli and Jose Dolz at ETS Montreal in the summer of 2018 on Group-Level Emotion Recognition.</description>
+      <description>Biography I am a third-year undergraduate student at the Indian Institute of Technology Roorkee, majoring in Computer Science &amp;amp; Engineering. My interests include Computer Vision, Natural Language Processing and the application of Deep Learning in these fields.
+At IIT Roorkee, I worked with Dr. Biplab Banerjee on Human Action Detection in Videos and Zero-Shot Learning. I also worked with Dr. Marco Pedersoli and Jose Dolz at ETS Montreal in the summer of 2018 on Group-Level Emotion Recognition.</description>
     </item>
     
     <item>
@@ -67,7 +68,7 @@
     </item>
     
     <item>
-      <title>Recent Publications</title>
+      <title>Publications</title>
       <link>https://aarushgupta.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
@@ -113,10 +114,10 @@
     
     <item>
       <title>Experience</title>
-      <link>https://aarushgupta.github.io/home/teaching/</link>
+      <link>https://aarushgupta.github.io/home/experience_list/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
       
-      <guid>https://aarushgupta.github.io/home/teaching/</guid>
+      <guid>https://aarushgupta.github.io/home/experience_list/</guid>
       <description>  Research Internship: LIVIA Group, ETS Montreal, Canada (Summer 2018)  Research Internship: Video Analytics Lab, IISc Bangalore, India (Winter 2018)   </description>
     </item>
     
