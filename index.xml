@@ -1,21 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aarush Gupta on Aarush Gupta</title>
+    <title>Academic on Academic</title>
     <link>https://aarushgupta.github.io/</link>
-    <description>Recent content in Aarush Gupta on Aarush Gupta</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Academic on Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>An Attention Model for Group-Level Emotion Recognition</title>
-      <link>https://aarushgupta.github.io/publication/emotiw/</link>
-      <pubDate>Tue, 18 Dec 2018 16:42:06 +0530</pubDate>
+      <title>Authors</title>
+      <link>https://aarushgupta.github.io/author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aarushgupta.github.io/publication/emotiw/</guid>
+      <guid>https://aarushgupta.github.io/author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://aarushgupta.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aarushgupta.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://aarushgupta.github.io/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aarushgupta.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://aarushgupta.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aarushgupta.github.io/talk/</guid>
       <description></description>
     </item>
     
