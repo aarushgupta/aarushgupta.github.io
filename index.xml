@@ -1,55 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aarush Gupta on Aarush Gupta</title>
+    <title>Aarush Gupta</title>
     <link>https://aarushgupta.github.io/</link>
-    <description>Recent content in Aarush Gupta on Aarush Gupta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0530</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://aarushgupta.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aarush Gupta</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://aarushgupta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Aarush Gupta</title>
+      <link>https://aarushgupta.github.io/</link>
+    </image>
     
     <item>
-      <title>Publications</title>
-      <link>https://aarushgupta.github.io/publication/</link>
+      <title>MitoEM Dataset: Large-Scale 3D Mitochondria Instance Segmentation from EM Images</title>
+      <link>https://aarushgupta.github.io/publication/mito/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0530</pubDate>
+      <guid>https://aarushgupta.github.io/publication/mito/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Attention Model for Group Level Emotion Recognition</title>
+      <link>https://aarushgupta.github.io/publication/att/</link>
       <pubDate>Thu, 02 Aug 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://aarushgupta.github.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://aarushgupta.github.io/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://aarushgupta.github.io/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Authors</title>
-      <link>https://aarushgupta.github.io/author/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aarushgupta.github.io/author/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://aarushgupta.github.io/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aarushgupta.github.io/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://aarushgupta.github.io/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aarushgupta.github.io/talk/</guid>
+      <guid>https://aarushgupta.github.io/publication/att/</guid>
       <description></description>
     </item>
     

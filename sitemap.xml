@@ -1,124 +1,145 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/authors/aarush-guptaast/</loc>
-      <lastmod>2018-08-02T00:00:00+05:30</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/publication-type/1/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/publication_types/1/</loc>
-      <lastmod>2018-08-02T00:00:00+05:30</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/</loc>
-      <lastmod>2018-08-02T00:00:00+05:30</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/author/aarush-gupta/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/publication/att/</loc>
-      <lastmod>2018-08-02T00:00:00+05:30</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/authors/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/authors/</loc>
-      <lastmod>2018-08-02T00:00:00+05:30</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/author/daniel-franco-barranco/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/authors/dakshit-agrawalast/</loc>
-      <lastmod>2018-08-02T00:00:00+05:30</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/author/donglai-wei/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/authors/hardik-chauhan/</loc>
-      <lastmod>2018-08-02T00:00:00+05:30</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/author/hanspeter-pfister/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/authors/jose-dolz/</loc>
-      <lastmod>2018-08-02T00:00:00+05:30</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/author/ignacio-arganda-carreras/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/authors/marco-pedersoli/</loc>
-      <lastmod>2018-08-02T00:00:00+05:30</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/author/jeff-w.-lichtman/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/publication_types/</loc>
-      <lastmod>2018-08-02T00:00:00+05:30</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/publication/mito/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/publication/</loc>
-      <lastmod>2018-08-02T00:00:00+05:30</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/author/nils-wendt/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/publication_types/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/project/mito/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/publication/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/author/wenjie-yin/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/project/report_xray/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/author/won-dong-jang/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/tags/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/author/xin-huang/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/author/admin/</loc>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/author/xingyu-liu/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/author/</loc>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/author/xueying-wang/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/categories/</loc>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/author/zudi-lin/</loc>
+    <lastmod>2020-06-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/post/</loc>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/publication/att/</loc>
+    <lastmod>2018-08-02T00:00:00+05:30</lastmod>
+  </url>
   
-    <url>
-    
-      <loc>https://aarushgupta.github.io/talk/</loc>
-    </url>
+  <url>
+    <loc>https://aarushgupta.github.io/author/dakshit-agrawal/</loc>
+    <lastmod>2018-08-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aarushgupta.github.io/author/hardik-chauhan/</loc>
+    <lastmod>2018-08-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aarushgupta.github.io/author/jose-dolz/</loc>
+    <lastmod>2018-08-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aarushgupta.github.io/author/marco-pedersoli/</loc>
+    <lastmod>2018-08-02T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aarushgupta.github.io/author/aarush-gupta/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aarushgupta.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aarushgupta.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aarushgupta.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://aarushgupta.github.io/tags/</loc>
+  </url>
   
 </urlset>

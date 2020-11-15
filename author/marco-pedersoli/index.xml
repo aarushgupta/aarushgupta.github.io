@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Pedersoli | Aarush Gupta</title>
+    <link>https://aarushgupta.github.io/author/marco-pedersoli/</link>
+      <atom:link href="https://aarushgupta.github.io/author/marco-pedersoli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marco Pedersoli</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://aarushgupta.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Marco Pedersoli</title>
+      <link>https://aarushgupta.github.io/author/marco-pedersoli/</link>
+    </image>
+    
+    <item>
+      <title>An Attention Model for Group Level Emotion Recognition</title>
+      <link>https://aarushgupta.github.io/publication/att/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0530</pubDate>
+      <guid>https://aarushgupta.github.io/publication/att/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
